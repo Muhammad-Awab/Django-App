@@ -25,4 +25,4 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        sudo pip install django
+        
